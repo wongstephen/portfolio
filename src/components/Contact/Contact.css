@@ -1,0 +1,45 @@
+.contact-container{
+  background-color: #2F5233;
+
+}
+.contact-title{
+  color: white;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 4.5rem;
+  margin: 4rem auto;
+}
+.contact-subtitle{
+  color: white;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 3rem;
+  margin: 4rem auto;
+}
+.contact-links {
+  padding: 0;
+  max-width: 800px;
+  margin: 0 auto;
+}
+.contact-links>li {
+  list-style: none;
+  text-align: left;
+  display: flex;
+  align-items: center;
+}
+
+.contact-links>li>a {
+  text-align: center;
+  cursor: pointer;
+  color:white;
+  font-weight: 200;
+  font-size: .75rem;
+  text-decoration: none;
+  letter-spacing: .25rem;
+  margin-left: 1rem;
+}
+
+.contact-links>li>a:hover{
+  color:#B1D8B7;
+  font-weight: 300;
+}

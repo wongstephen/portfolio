@@ -1,0 +1,17 @@
+.tl-mission{
+  background-color: rgba(177, 216, 183, .2);
+}
+.mission-statement-container {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+.mission-statement-title {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 3rem;
+}
+.mission-statement-subtitle {
+  font-size: 1rem;
+  font-weight: 300;
+  line-height: 2rem;
+}
